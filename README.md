@@ -2,8 +2,9 @@
 
 ## Hi there ! 👋
 
-### 💻 I've just started to learn Fullstack skills !
+### 💻 I've just started to learn Fullstack skills 
 
+* 
 
 
 
